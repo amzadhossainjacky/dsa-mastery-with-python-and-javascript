@@ -1,0 +1,227 @@
+✅ DSA MASTERY ROADMAP CHECKLIST
+Duration: 23 June 2026 → 23 OCT 2026
+Goal: Complete DSA + 250 LeetCode Problems + Python Mastery
+________________________________________
+PHASE 0: PYTHON & JAVASCRIPT FOUNDATION
+🐍 Python Basics
+☐ Python Installation & Setup
+☐ Variables & Data Types
+☐ Operators
+☐ Conditional Statements
+☐ Loops
+☐ Functions
+☐ Modules & Packages
+🐍 Intermediate Python
+☐ Lists
+☐ Tuples
+☐ Sets
+☐ Dictionaries
+☐ List Comprehension
+☐ Exception Handling
+☐ File Handling
+🐍 Advanced Python
+☐ Object-Oriented Programming (OOP)
+☐ Inheritance
+☐ Polymorphism
+☐ Encapsulation
+☐ Iterators & Generators
+☐ Decorators
+☐ Built-in Libraries
+________________________________________
+🟨 JavaScript Basics
+☐ JavaScript Setup & Environment
+☐ Variables (var, let, const)
+☐ Data Types
+☐ Operators
+☐ Conditional Statements
+☐ Loops
+☐ Functions
+☐ Scope & Hoisting
+🟨 Intermediate JavaScript
+☐ Arrays
+☐ Objects
+☐ Array Methods (map, filter, reduce)
+☐ String Methods
+☐ DOM Manipulation
+☐ Events & Event Handling
+☐ Error Handling (try-catch)
+☐ ES6+ Features
+🟨 Advanced JavaScript
+☐ Closures
+☐ Callbacks
+☐ Promises
+☐ Async / Await
+☐ Fetch API
+☐ Modules (Import/Export)
+☐ Object-Oriented Programming (OOP)
+☐ Prototypes & Prototype Chain
+☐ Higher-Order Functions
+☐ Functional Programming Concepts
+________________________________________
+📌 DSA MODULES
+Week 1
+Module 1: Introduction to DSA
+☐	What is DSA?
+☐	Why DSA Matters
+☐	Problem Solving Mindset
+Module 2: Algorithm Complexity
+☐	Time Complexity
+☐	Space Complexity
+☐	Big O Notation
+☐	Big Omega
+☐	Big Theta
+________________________________________
+Week 2
+Module 3: Arrays
+☐	Array Basics
+☐	Traversal
+☐	Insertion
+☐	Deletion
+☐	Prefix Sum
+☐	Sliding Window
+☐	Two Pointers
+________________________________________
+Week 3
+Module 4: Strings
+☐	String Manipulation
+☐	Palindrome Problems
+☐	Frequency Count
+☐	Pattern Matching
+________________________________________
+Week 4
+Module 5: Recursion
+☐	Recursive Thinking
+☐	Base Cases
+☐	Recursive Tree
+☐	Recursion Problems
+________________________________________
+Week 5
+Module 6: Linked List
+☐	Singly Linked List
+☐	Doubly Linked List
+☐	Circular Linked List
+☐	Fast & Slow Pointer
+________________________________________
+Week 6
+Module 7: Stack & Queue
+☐	Stack
+☐	Queue
+☐	Deque
+☐	Monotonic Stack
+________________________________________
+Week 7
+Module 8: Sorting Algorithms
+☐	Bubble Sort
+☐	Selection Sort
+☐	Insertion Sort
+☐	Merge Sort
+☐	Quick Sort
+☐	Heap Sort
+________________________________________
+Week 8
+Module 9: Searching Algorithms
+☐	Linear Search
+☐	Binary Search
+☐	Search Optimization
+________________________________________
+Week 9
+Module 10: Trees
+☐	Binary Tree
+☐	Tree Traversals
+☐	Recursive Tree Problems
+________________________________________
+Week 10
+Module 11: Greedy Algorithms
+☐	Activity Selection
+☐	Interval Scheduling
+☐	Optimization Problems
+________________________________________
+Week 11
+Module 12: Backtracking
+☐	N-Queens
+☐	Sudoku Solver
+☐	Permutations
+☐	Combinations
+________________________________________
+Week 12
+Module 13: Graph Basics & BFS
+☐	Graph Representation
+☐	BFS Traversal
+☐	Connected Components
+________________________________________
+Week 13
+Module 14: Graph Deep Dive
+☐	DFS
+☐	Topological Sort
+☐	Shortest Path
+☐	Union Find
+________________________________________
+Week 14
+Module 15: Dynamic Programming
+☐	Memoization
+☐	Tabulation
+☐	Fibonacci DP
+☐	Classic DP Problems
+________________________________________
+Week 15
+Module 16: Advanced Dynamic Programming
+☐	0/1 Knapsack
+☐	DP on Trees
+☐	DP Optimization
+________________________________________
+Week 16-17
+Module 17: Advanced Data Structures
+☐	Heap
+☐	Min Heap
+☐	Max Heap
+☐	Binary Search Tree (BST)
+☐	Trie
+☐	Hash Tables
+________________________________________
+📊 LEETCODE TRACKER
+Beginner Problems (50)
+☐	1
+☐	2
+☐	3
+☐	4
+☐	5
+☐	6
+☐	7
+☐	8
+☐	9
+☐	10
+☐	11-50
+Medium Problems (100)
+☐	1-10
+☐	11-20
+☐	21-30
+☐	31-40
+☐	41-50
+☐	51-60
+☐	61-70
+☐	71-80
+☐	81-90
+☐	91-100
+Advanced Problems (100)
+☐	1-10
+☐	11-20
+☐	21-30
+☐	31-40
+☐	41-50
+☐	51-60
+☐	61-70
+☐	71-80
+☐	81-90
+☐	91-100
+________________________________________
+🎯 FINAL TARGET (13 September 2025)
+☐	Python Mastery Complete
+☐	All 17 DSA Modules Complete
+☐	250+ LeetCode Problems Solved
+☐	Interview Ready
+☐	Strong Problem Solving Skills
+☐	GitHub DSA Repository Complete
+Progress
+Completed: ____ / 17 Modules
+LeetCode Solved: ____ / 250
+Completion Percentage: ______ %
