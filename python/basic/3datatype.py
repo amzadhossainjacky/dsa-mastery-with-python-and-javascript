@@ -69,4 +69,32 @@ student_name  = input("Enter the student name: ")
 student_id = int(input("Enter the student ID: "))
 student_age = int(input("Enter the student age: "))
 student_gpa = float(input("Enter the student GPA: "))
+student_is_enrolled = bool(input("Is the student enrolled? (True/False): "))
+courses = input("Enter the courses (comma-separated): ").split(',')
+grades = tuple(input("Enter the grades (comma-separated): ").split(','))
+clubs = set(input("Enter the clubs (comma-separated): ").split(','))
+
+#example of dictionary data type to store the student information
+student_profile = {
+    "name": student_name,
+    "id": student_id,
+    "age": student_age,
+    "gpa": student_gpa,
+    "is_enrolled": student_is_enrolled,
+    "courses": courses,
+    "grades": grades,
+    "clubs": clubs
+}
+
+print("\nStudent Information:")
+print(student_profile)
+print(f"\nData Types:")
+print(f"Student Name: {type(student_name)}")
+print(f"Student ID: {type(student_id)}")
+print(f"Student Age: {type(student_age)}")
+print(f"Student GPA: {type(student_gpa)}")
+print(f"Is Enrolled: {type(student_is_enrolled)}")
+print(f"Courses: {type(courses)}")
+print(f"Grades: {type(grades)}")
+print(f"Clubs: {type(clubs)}")
 
