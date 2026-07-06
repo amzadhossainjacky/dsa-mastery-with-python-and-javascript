@@ -29,11 +29,11 @@ print("After swapping x:", x, "y:", y)
  """
 
 #type casting
-x = 5
+""" x = 5
 y = "10"
 z = 5 + int(y)
 print("The sum of x and y is:", z)
-
+ """
 
 ## project 
 """ Create a Salary Calculator.
